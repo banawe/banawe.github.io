@@ -1,4 +1,4 @@
-## Welcome to my GitHub Pages
+## Welcome to Banawe's personal GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/banawe/banawe.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
