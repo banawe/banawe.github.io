@@ -2,7 +2,7 @@
 
 ## Short bio and contact
 
-Banawe Anissa is an Economist graduate from Wageningen University and Research. He also holds an MSc. in Mathematics, Economics and Statistics from African School of Economics (ASE) and an Engineer Degree in Statistics from the Subregional Institute of Statistics and Economics (ISSEA). 
+Banawe Anissa is an Economist graduate from Wageningen University and Research. He also holds an MSc. in Mathematics, Economics and Statistics (major: Econometrics) from African School of Economics (ASE) and an Engineer Degree in Statistics from the Subregional Institute of Statistics and Economics (ISSEA). 
 
 Email: bpanissa@hotmail.com
 
