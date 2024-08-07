@@ -2,9 +2,9 @@
 
 ## Short bio and research interest:
 
-Banawe is currently a Ph.D. Candidate in Development Economics at Wageningen University and Research. Previously, from September 2014 to December 2016, he was Graduate Student in Mathematics, Economics and Statistics at African School of Economics (ASE) and in Statistics at the Subregional Institute of Statistics and Economics (ISSEA). He obtained his MSc. in Statistics in September 2011, and Masters Degree in Mathematics, Economics and Statistics in 2016, Bsc. in Statistical Sciences (2011); Bsc. in Electrical Engineering (2007) and Mathematics from the University of Lome, Togo.
+Banawe Anissa is an Economist graduate from Wageningen University and Research. Previously, from September 2014 to December 2016, he was Graduate Student in Mathematics, Economics and Statistics at African School of Economics (ASE) and in Statistics at the Subregional Institute of Statistics and Economics (ISSEA). He obtained his MSc. in Statistics in September 2011, and Masters Degree in Mathematics, Economics and Statistics in 2016, Bsc. in Statistical Sciences (2011); Bsc. in Electrical Engineering (2007) and Mathematics from the University of Lome, Togo.
 
-My primary research interests are non-parametric smoothing methods in general with applications in Biostatistics, Environmental Modelling, Epidemiology, Mortality and Times Series Analysis. Mainly, I'm studying smoothing techniques based on penalized splines regression models (Penalized Likelihood splines with low-rank B-splines basis) in mixed effects and additive models framework ("Generalized Linear Mixed Models," GLMM's) for multidimensional problems such as spatial and spatiotemporal modeling. Currently, I am also working on Health-Related Quality of Life data modeling and composite link models. I am also interested in complex data modeling, Big Data applications, computational statistics and Data Visualization.
+My primary research interests are in Experimental Economics, Statistics and Data Science.
 
 
 KEYWORDS:
