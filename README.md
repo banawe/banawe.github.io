@@ -1,14 +1,37 @@
 # Welcome to my personal page
 
-## Short bio and research interest:
+## Short bio 
 
-Banawe Anissa is an Economist graduate from Wageningen University and Research. Previously, from September 2014 to December 2016, he was Graduate Student in Mathematics, Economics and Statistics at African School of Economics (ASE) and in Statistics at the Subregional Institute of Statistics and Economics (ISSEA). He obtained his MSc. in Statistics in September 2011, and Masters Degree in Mathematics, Economics and Statistics in 2016, Bsc. in Statistical Sciences (2011); Bsc. in Electrical Engineering (2007) and Mathematics from the University of Lome, Togo.
+Banawe Anissa is an Economist graduate from Wageningen University and Research. He also holds an MSc. in Mathematics, Economics and Statistics from African School of Economics (ASE) and an Engineer Degree in Statistics from the Subregional Institute of Statistics and Economics (ISSEA). 
 
+## Research interests
 My primary research interests are in Experimental Economics, Statistics and Data Science.
 
 
-KEYWORDS:
-Smoothing techniques in general, semi-parametric regression, hierarchical models, (Generalized) Linear Mixed Models, Penalized splines, Generalized Additive Models (GAMs), Generalized Linear Array Methods (GLAM), Tensor Products, Multidimensional smoothing, Wireless Sensors and Sensor Networks (WSN), Functional Data Analysis (FDA), Composite Link (Mixed) Models, Health-Related Quality of Life (HRQoL) data analysis.
+## Publications (peer-reviewed)
+
+  Bulte, E., Do Nascimento Miguel, J., and Anissa, B.P. (2022). Competition on Agricultural Markets and Quality of Smallholder Supply: The Role of Relational Contracting and Input Provision by Traders. Economic Development and Cultural Change (EDCC). https://doi.org/10.1086/721024   
+  
+  Anissa, B. P., Abate, G.T., Bernard, T. and Bulte E. (2021). Is the local wheat market a ‘market for lemons’? Certifying the supply of individual wheat farmers in Ethiopia. European Review of Agricultural Economics.  European Review of Agricultural Economics. https://doi.org/10.1093/erae/jbab018  
+  
+  
+## Working papers & works in progress
+
+  Anissa, B.P., M. Treurniet, and E. Bulte (2023). Market Power, Transparency and Input Provision to Small Farmers: Qualitative and Quantitative Evidence on Relational Contracting. Working paper. Wageningen University. 
+  
+  Anissa, B.P. (2023). Access to High-Value Agricultural Chains and Agricultural Technology Adoption: Experimental Evidence from Local Agricultural Markets in Togo. Working paper. Wageningen University.  
+  
+  Anissa, B.P., Padakale, A., Adjor,  D. and Akibode C. (2017). Status of selected SDGs economic indicators and related data sources in Togo. Expert Group Meeting on Statistics for Economic Indicators of Sustainable Development Goals, Addis Ababa, Ethiopia; African Centre for Statistics (ACS) - United Nations Economic Commission for Africa (ECA).
+  
+  Anissa, B.P. (2017). On statistical capacity development in Africa: a functional data analysis approach. Proceedings 61st World Statistics Congress, Marrakech, Morocco.
+  
+  Anissa, B.P., and Olapade M. (2017). Estimates of the distributional welfare effects of agricultural technology adoption: evidence on improved maize in Togo. Proceedings 61st World Statistics Congress, Marrakech, Morocco.
+  
+  Anissa, B. P. (2015). Drivers of youth labour market and school-to-work-transitions: evidence from Togo. 60th ISI World Statistics Congress, Rio de Janeiro, Brazil.
+
+  Anissa, B.P., Malaa, D. , and Diagne A. (2013). Impact of the Adoption of Improved Rice Varieties on Poverty Reduction in Cameroon: the Local Average Treatment Effect (LATE) Approach. Proceedings 59th ISI World Statistics Congress, 25-30 August 2013. 
+
+  Anissa, B.P., Siwe G. L. and  Fotio A. H. (2010). Impact of economic growth on the demand of agricultural products in CEMAC: Vector AutoRegressive approach. Working paper; Sub-regional Institute of Statistics and Applied Economics, (ISSEA), Yaounde, Cameroon 
 
 
 ### Support or Contact
